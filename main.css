@@ -1,6 +1,6 @@
 body {
 
-    background-color: #FFBB98;
+    background-color: #C9F2C7;
 }
 
 .product-container{
@@ -8,7 +8,7 @@ body {
     flex-wrap: wrap;
     justify-content: space-evenly;
     margin: 50px 0px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .product-card-1, .product-card-2, .product-card-3, .product-card-4 {
@@ -16,19 +16,16 @@ body {
     width: 25%;
     margin: 25px;
     padding-bottom: 10px;
-    background-color:#FFEFE0;
-    border:solid 5px #D03032;
+    background-color:#dff0dc;
+    border:solid 5px #629460;
 
     border-radius: 25px;
-    box-shadow :10px 5px 5px #A0020A;
+    box-shadow :10px 5px 5px #243119;
 }
 
 header{ 
 
-    border-bottom:1px solid #90E3F5;
-
-    border-bottom: #90E3F5;
-
+    border-bottom:1px solidCDD5D1;
     display:flex; 
     justify-content: center;
 }
